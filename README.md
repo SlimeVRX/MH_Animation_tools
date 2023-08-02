@@ -32,5 +32,9 @@ Thứ tự:
 
 ![image](https://github.com/SlimeVRX/MH_Animation_tools/assets/99313947/fc2bffaa-cba0-4bca-977a-7c6b5b8d65e7)
 
+![image](data/iPhone_clone/Depth_Frames/video_000000_vis_original_size.jpg)
+
+![image](data/iPhone_clone/Depth_Frames/video_000000_vis.jpg)
+
 
 
